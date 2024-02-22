@@ -6,7 +6,7 @@ public class Comments {
        * 2. C style comments
        * 3. special javadoc comments */
 
-        // 1. C** comment style
+        // 1. C++ comment style
         System.out.println("1. We use // for C++ comment style");
 
          /* 2. C comment style */
